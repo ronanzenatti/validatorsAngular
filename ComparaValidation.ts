@@ -24,4 +24,5 @@ export const comparaValidator = (
       comparacao.setErrors(null);
     }
   };
+  return valida;
 };
